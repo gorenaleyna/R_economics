@@ -1,0 +1,4 @@
+Hello, today we will explain what is Time Series and why do we use it.
+Basically time series shows us a data that goes on as time which might be days, months, quarters, etc.. for single entity.
+Our aim is to understand what can happen in the future. 
+While looking at the time series we try to forecast the future values by past values. It is a very important step. 
